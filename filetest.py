@@ -14,9 +14,6 @@ def humidityShowFunction():
 def temperatureShowFunction():
     plt.plot(xAxysList, temperatureList)
     plt.show() 
-
-
-    
 t = 0
 humidity_list = []
 temperatureList = []
