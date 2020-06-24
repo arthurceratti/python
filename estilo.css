@@ -1,0 +1,12 @@
+h3{
+    color:blue;
+    text-align: center;
+    background-color: teal;
+    width: 100px;
+    height: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-weight: bold;
+    font-size: large;
+    border: 15px, chocolate;
+   
+}
